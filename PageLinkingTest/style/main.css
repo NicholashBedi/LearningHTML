@@ -1,0 +1,34 @@
+body {
+	background:#999;
+	font-family: arial;
+}
+
+h1,h2{
+	color: #333;
+	font = font-family: Times;
+}
+
+a{
+	color: green
+
+}
+
+p{
+	color: blue;
+	background: red;
+	padding: 10px
+}
+
+.secondary{
+	color:red;
+	background: blue;
+	padding: 10px;
+}
+
+p{
+	color: blue;
+	background: red;
+	padding: 5px		
+}
+								/*The second p override the first one */
+
